@@ -18,17 +18,18 @@
 
 az，明白了吧（大嘘）
 
-### 写代码能力
-[![SB Stoneの数据](https://github-readme-stats.vercel.app/api?username=BilShiziheng&locale=cn&show_icons=true&theme=radical)](https://github.com/BilShiziheng/github-readme-stats)
+### Github基本信息
+[![SB Stoneの数据](https://github-readme-stats.vercel.app/api?username=BilShiziheng&locale=cn&show_icons=true&theme=radical)](https://github.com/BilShiziheng/github-readme-stats) [![爱用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=BilShiziheng)](https://github.com/bilshiziheng/github-readme-stats&locale=cn&layout=compact)
 
-### Github上常用的语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilShiziheng)](https://github.com/bilshiziheng/github-readme-stats&locale=cn)
+
 ## 个人信息
 - 年龄：你别问（ 
 - 📫邮箱： 2573889206@qq.com (**最常用**) shizihenh@outlook.com shizihenh@163.com 
 - 🎂生日: 12.10 
 - 📌居住: 北京市 
 
+## 在B站的数据
+![屑石头（](https://stats.justsong.cn/api/bilibili/?id=424714725&lang=zh-CN&theme=merko) ![屑石头小号比大号粉丝多](https://stats.justsong.cn/api/bilibili/?id=1134776748&lang=zh-CN&theme=onedark)
 ## To do
 * [X] StoneBlog
 * [X] StoneBot
