@@ -19,7 +19,7 @@
 az，明白了吧（大嘘）
 
 ### Github基本信息
-[![SB Stoneの数据](https://github-readme-stats.vercel.app/api?username=BilShiziheng&locale=cn&show_icons=true&theme=radical)](https://github.com/BilShiziheng/github-readme-stats) [![爱用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=BilShiziheng)](https://github.com/bilshiziheng/github-readme-stats&locale=cn&layout=compact)
+[![SB Stoneの数据](https://github-readme-stats.vercel.app/api?username=BilShiziheng&locale=cn&show_icons=true&theme=radical)](https://github.com/BilShiziheng/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 个人信息
